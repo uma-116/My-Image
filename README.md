@@ -1,2 +1,2 @@
-MyImage
+
 # My-Image
